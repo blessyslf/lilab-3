@@ -12,32 +12,22 @@
   width: 100vw;
   height: 62.5vw;
   }
-
-
-  .main_img{
-    width: 100vw;
-    height: 62.500vw;
-    margin: 0 auto;
-  }
-
-
-
   .bhexagon{
     position: absolute;
     width: 69.5vw;
     height: 69.5vw;
     box-sizing: border-box;
-    left: 23vw;
-    top: 2vw;
+    left: 71.3vw;
+    top: 83.6vw;
 }
 
 .bhexagon1{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
   left: -6vw;
-  top: 0vw;
+  top: 15.3vw;
 }
 
 .bhexagon2{
@@ -51,11 +41,11 @@
 
 .bhexagon3{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
   left: -6vw;
-  top: 55vw;
+  top: 78.2vw;
 }
 
 .bhexagon4{
@@ -123,19 +113,19 @@
 
 .ghexagon{
   position: absolute;
-  width: 18vw;
-  height: 18vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
-  left: 8vw;
-  top: 46vw;
+  left: 65.6vw;
+  top: 63.6vw;
 }
 .ghexagon1{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
   left: -6vw;
-  top: 36.5vw;
+  top: 57.1vw;
 }
 
 .ghexagon2{
@@ -149,20 +139,20 @@
 
 .ghexagon3{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
-  left: 50vw;
-  top: -3vw;
+  left: 62.3vw;
+  top: 8.4vw;
 }
 
 .ghexagon4{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
   left: 48.3vw;
-  top: 59vw;
+  top: 88.6vw;
 }
 
 .ghexagon5{
@@ -184,13 +174,20 @@
 }
 
 .rhexagon1{
-  position: absolute;
-  width: 22vw;
-  height: 22vw;
-  box-sizing: border-box;
-  left: 47.5vw;
-  top: 25vw;
+position: absolute;
+width: 22vw;
+height: 22vw;
+box-sizing: border-box;
+left: 47.5vw;
+top: 25vw;
 }
+
+.main_img{
+width: 100vw;
+height: 62.500vw;
+margin: 0 auto;
+}
+
 
 .rhexagon2{
   position: absolute;
@@ -213,11 +210,11 @@
 
 .rhexagon4{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
-  left: -5.5vw;
-  top: 18vw;
+  left: -6vw;
+  top: 36.1vw;
 }
 
 .rhexagon5{
@@ -231,29 +228,29 @@
 
 .rhexagon6{
   position: absolute;
-  width: 17.361vw;
-  height: 17.361vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
-  left: 7vw;
-  top: -3vw;
+  left: 26.2vw;
+  top: 8.9vw;
 }
 
 .rhexagon7{
   position: absolute;
-  width: 19vw;
-  height: 19vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
   left: 98.9vw;
-  top: -5.5vw;
+  top: 8.8vw;
 }
 
 .rhexagon8{
   position: absolute;
-  width: 17vw;
-  height: 17vw;
+  width: 20.8vw;
+  height: 20.8vw;
   box-sizing: border-box;
-  left: 9vw;
-  top: 59vw;
+  left: 12vw;
+  top: 88.3vw;
 }
 
 .rhexagon9{
@@ -378,7 +375,7 @@ solid #99D4BC;
   position: absolute;
   width: 11.6vw;
   height: 13.82vw;
-  left: 99.72vw;
+  left: 5.23vw;
   top: 41.67vw;
 }
 .pic8 {
@@ -454,7 +451,7 @@ top: 41.67vw;
   width: 114.43vw;
   height: 7.678vw;
   left: 0vw;
-  top: 95,97vw;
+  top: 95.97vw;
 }
 .colb3 {
   position: absolute;
